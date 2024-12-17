@@ -1,0 +1,16 @@
+.product-list {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+  }
+  
+  .product-card {
+    width: 200px;
+    text-align: center;
+  }
+  
+  .product-card img {
+    width: 100%;
+    height: auto;
+  }
+  
